@@ -85,14 +85,14 @@
 }
 
 .card__container--closed .card__title {
-	color: #0e0a5c;
+	color: rgb(197, 106, 205);
 }
 
 .card__subtitle {
 	font-size: .95em;
 	line-height: 1;
 	margin: 5px 0 0;
-	color: #777778;
+	color: rgb(229, 147, 236) !important;
 }
 
 .card__container--closed .card__subtitle {
